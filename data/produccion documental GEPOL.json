@@ -162,6 +162,36 @@
             "NoMes": 7
         },
         {
+            "Mes": "AGOSTO",
+            "Dia": 12,
+            "Cantidad": 272,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 19,
+            "Cantidad": 230,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 1,
+            "Cantidad": 420,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 5,
+            "Cantidad": 203,
+            "NoMes": 8
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 9,
+            "Cantidad": 348,
+            "NoMes": 9
+        },
+        {
             "Mes": "ENERO",
             "Dia": 27,
             "Cantidad": 466,
@@ -310,6 +340,36 @@
             "Dia": 21,
             "Cantidad": 367,
             "NoMes": 7
+        },
+        {
+            "Mes": "JULIO",
+            "Dia": 31,
+            "Cantidad": 465,
+            "NoMes": 7
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 23,
+            "Cantidad": 480,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 6,
+            "Cantidad": 195,
+            "NoMes": 8
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 2,
+            "Cantidad": 227,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 8,
+            "Cantidad": 410,
+            "NoMes": 9
         },
         {
             "Mes": "ENERO",
@@ -472,6 +532,48 @@
             "Dia": 5,
             "Cantidad": 405,
             "NoMes": 7
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 16,
+            "Cantidad": 334,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 20,
+            "Cantidad": 200,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 25,
+            "Cantidad": 473,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 9,
+            "Cantidad": 459,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 11,
+            "Cantidad": 503,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 27,
+            "Cantidad": 240,
+            "NoMes": 8
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 1,
+            "Cantidad": 485,
+            "NoMes": 9
         },
         {
             "Mes": "ENERO",
@@ -660,6 +762,60 @@
             "NoMes": 6
         },
         {
+            "Mes": "JULIO",
+            "Dia": 28,
+            "Cantidad": 450,
+            "NoMes": 7
+        },
+        {
+            "Mes": "JULIO",
+            "Dia": 29,
+            "Cantidad": 228,
+            "NoMes": 7
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 7,
+            "Cantidad": 382,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 26,
+            "Cantidad": 239,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 28,
+            "Cantidad": 324,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 29,
+            "Cantidad": 388,
+            "NoMes": 8
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 4,
+            "Cantidad": 452,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 5,
+            "Cantidad": 401,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 7,
+            "Cantidad": 339,
+            "NoMes": 9
+        },
+        {
             "Mes": "ENERO",
             "Dia": 24,
             "Cantidad": 422,
@@ -802,6 +958,36 @@
             "Dia": 16,
             "Cantidad": 189,
             "NoMes": 7
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 3,
+            "Cantidad": 453,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 17,
+            "Cantidad": 473,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 22,
+            "Cantidad": 458,
+            "NoMes": 8
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 3,
+            "Cantidad": 179,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 14,
+            "Cantidad": 103,
+            "NoMes": 9
         },
         {
             "Mes": "ENERO",
@@ -960,6 +1146,60 @@
             "NoMes": 7
         },
         {
+            "Mes": "AGOSTO",
+            "Dia": 2,
+            "Cantidad": 459,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 13,
+            "Cantidad": 174,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 15,
+            "Cantidad": 423,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 18,
+            "Cantidad": 442,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 30,
+            "Cantidad": 415,
+            "NoMes": 8
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 10,
+            "Cantidad": 210,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 11,
+            "Cantidad": 394,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 12,
+            "Cantidad": 453,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 13,
+            "Cantidad": 427,
+            "NoMes": 9
+        },
+        {
             "Mes": "ENERO",
             "Dia": 28,
             "Cantidad": 297,
@@ -1081,9 +1321,33 @@
         },
         {
             "Mes": "JULIO",
+            "Dia": 30,
+            "Cantidad": 193,
+            "NoMes": 7
+        },
+        {
+            "Mes": "JULIO",
             "Dia": 15,
             "Cantidad": 232,
             "NoMes": 7
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 8,
+            "Cantidad": 475,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 21,
+            "Cantidad": 264,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 31,
+            "Cantidad": 542,
+            "NoMes": 8
         },
         {
             "Mes": "ENERO",
@@ -1247,41 +1511,133 @@
             "Cantidad": 446,
             "NoMes": 7
         },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 4,
+            "Cantidad": 565,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 10,
+            "Cantidad": 465,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 14,
+            "Cantidad": 472,
+            "NoMes": 8
+        },
+        {
+            "Mes": "AGOSTO",
+            "Dia": 24,
+            "Cantidad": 581,
+            "NoMes": 8
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 6,
+            "Cantidad": 436,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 15,
+            "Cantidad": 514,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 16,
+            "Cantidad": 246,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 17,
+            "Cantidad": 192,
+            "NoMes": 9
+        },
 
         {
-            "Mes": "JULIO",
-            "Dia": 28,
-            "Cantidad": 446,
-            "NoMes": 7
-        },
-            {
-            "Mes": "JULIO",
-            "Dia": 29,
-            "Cantidad": 450,
-            "NoMes": 7
-        },
-            {
-            "Mes": "JULIO",
-            "Dia": 30,
-            "Cantidad": 193,
-            "NoMes": 7
+            "Mes": "SEPTIEMBRE",
+            "Dia": 18,
+            "Cantidad": 101,
+            "NoMes": 9
         },
         {
-            "Mes": "JULIO",
-            "Dia": 31,
-            "Cantidad": 465,
-            "NoMes": 7
+            "Mes": "SEPTIEMBRE",
+            "Dia": 19,
+            "Cantidad": 429,
+            "NoMes": 9
         },
-                {
-            "Mes": "AGOSTO",
-            "Dia": 1,
-            "Cantidad": 420,
-            "NoMes": 8
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 20,
+            "Cantidad": 393,
+            "NoMes": 9
         },
-                {
-            "Mes": "AGOSTO",
-            "Dia": 2,
-            "Cantidad": 459,
-            "NoMes": 8
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 21,
+            "Cantidad": 432,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 22,
+            "Cantidad": 432,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 23,
+            "Cantidad": 241,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 24,
+            "Cantidad": 194,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 25,
+            "Cantidad": 358,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 26,
+            "Cantidad":565,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 27,
+            "Cantidad":386,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 28,
+            "Cantidad":333,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 29,
+            "Cantidad":347,
+            "NoMes": 9
+        },
+        {
+            "Mes": "SEPTIEMBRE",
+            "Dia": 30,
+            "Cantidad":176,
+            "NoMes": 9
         }
+        
+
     ]
